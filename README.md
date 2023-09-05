@@ -14,8 +14,6 @@ ChatterBox is a cutting-edge group chat app designed to revolutionize your commu
 
 - Figma : https://www.figma.com/file/Un6O27HvtnsthkJW1bkAqV/ChatterBox?type=design&node-id=0-1&mode=design&t=79Zd6xBTlITprgfl-0
 
--
-
 ## Features
 
 ### Main Features
